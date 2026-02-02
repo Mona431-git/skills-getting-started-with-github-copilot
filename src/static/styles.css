@@ -151,10 +151,14 @@ button:hover {
   padding: 0;
   margin-left: 10px;
   box-shadow: none;
+  outline: none;
 }
 
 .remove-participant:hover {
   color: red;
+  background: none;
+  border: none;
+  outline: none;
 }
 
 footer {
