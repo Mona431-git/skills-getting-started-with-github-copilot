@@ -142,6 +142,21 @@ button:hover {
   display: none;
 }
 
+.remove-participant {
+  background: none;
+  border: none;
+  color: gray;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 0;
+  margin-left: 10px;
+  box-shadow: none;
+}
+
+.remove-participant:hover {
+  color: red;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
